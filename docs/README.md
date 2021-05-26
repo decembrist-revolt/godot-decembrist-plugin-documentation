@@ -13,7 +13,7 @@ PLUGIN USES REFLECTION AND THUS DOES NOT WORK WITH WEB TARGET YET
 #### Features
 
 - [_DI_](0.3-beta/di.md) (Dependency Injection)
-- [_Event driven development_](0.3-beta/events.md)
+- [_Event driven development_](0.3-beta/eventbus/eventbus.md)
 - [_Utils_](0.3-beta/utils/utils.md) for using **Godot** components in easy way
 
 #### [Plugin settings](0.3-beta/settings.md)

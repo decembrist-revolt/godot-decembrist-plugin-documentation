@@ -1,0 +1,6 @@
+* [Home](/)
+* [Back to 0.3-beta](/0.3-beta/home.md)
+* [Dependency injection](/0.3-beta/di.md)
+* [Event Bus](/0.3-beta/eventbus/eventbus.md)
+* [Utils](/0.3-beta/utils/utils.md)
+* [Plugin properties](/0.3-beta/properties.md)

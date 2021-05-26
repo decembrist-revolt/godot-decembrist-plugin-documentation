@@ -3,4 +3,4 @@
 * [Dependency injection](/0.3-beta/di.md)
 * [Event Bus](/0.3-beta/eventbus/eventbus.md)
 * [Utils](/0.3-beta/utils/utils.md)
-* [Plugin properties](/0.3-beta/properties.md)
+* [Plugin settings](/0.2-beta/settings.md)
